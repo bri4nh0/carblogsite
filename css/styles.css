@@ -246,11 +246,11 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: #2B3467;
   text-decoration: none;
 }
 a:hover {
-  color: var(--bs-link-hover-color);
+  color: #BAD7E9;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7812,7 +7812,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #2B3467 !important;
 }
 
 .text-black-50 {
